@@ -8,8 +8,8 @@ You can find more information on my personal website https://partharaj.me
 
 ### Connect with me:
 
-[![Website](https://img.shields.io/website?up_message=partharaj.me&url=https%3A%2F%2Fpartharaj.me&label=Visit&color=14171A&labelColor=orange)](https://partharaj.me)
 [![LinkedIn](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=blue&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/partharajbd) 
+[![Website](https://img.shields.io/website?up_message=partharaj.me&url=https%3A%2F%2Fpartharaj.me&label=Visit&color=14171A&labelColor=orange)](https://partharaj.me)
 [![Stackoverflow](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/2219315/partharaj-deb)
 
 
