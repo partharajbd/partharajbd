@@ -1,8 +1,16 @@
 ### Hi there 👋
 # I am Partharaj Deb 🇧🇩
-### Sr. Software Engineer & Technical Screener at [Toptal](https://www.toptal.com/resume/partharaj-deb)
+### Sr. Software Engineer at [Toptal](https://www.toptal.com/resume/partharaj-deb)
 
-With over **9 years of professional experience since 2014**, I've worked on-site and remotely for local and international companies, mastering **Java** with **Spring Boot** and **PHP** with **Laravel** framework. Additionally, I have extensive knowledge of cloud computing with **AWS** and am well-versed in **DevOps** practices, including **CI/CD** pipelines. My **problem-solving skills**, **leadership** in **Agile** environments, and commitment to **clean**, **best practice-oriented** code make me a valuable asset in any project.
+I’ve spent over ten years building and scaling software systems across the Fintech, MedTech, EdTech, AgriTech, HRTech, and eCommerce industries around the world. My main stack is Java with Spring Boot and PHP with Laravel. Over time, my work has naturally grown beyond development into system design, DevOps, and technical product management.
+
+I’ve cracked the Toptal screening process and worked with clients across continents, helping them streamline complex operations, modernize legacy systems, and ship products that actually deliver results. I’ve led engineering efforts, designed scalable architectures, managed AWS infrastructures, and built CI/CD pipelines that keep releases predictable and stress-free.
+
+I also specialize in connecting systems, whether that means integrating third-party APIs, building microservices, designing event-driven architectures, or setting up message streaming with tools like Kafka or RabbitMQ. But I always aim for outcome-driven simplicity, avoiding over-engineering when a clean, straightforward design gets the job done better.
+
+After a decade in this field, I still enjoy solving hard technical problems and shaping systems that make sense both technically and strategically. I like designing for scale, writing code that others can easily maintain, and helping teams grow into confident, independent problem-solvers.
+
+At the core, I build products that work, systems that last, and teams that keep improving through them.
 
 You can find more information on my personal website https://partharaj.me
 
@@ -13,12 +21,7 @@ You can find more information on my personal website https://partharaj.me
 [![Stackoverflow](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=orange&logo=stackoverflow&logoColor=fff)](https://stackoverflow.com/users/2219315/partharaj-deb)
 
 
-- 😄 Fun fact: I'm a programmer but I love Tea 🍵 over Coffee ☕
 ---
-
-> [!IMPORTANT]
-> My **GitHub** account doesn't have contributions, because I have been using **Gitlab** for my personal projects when GitHub was not free for private projects.
-> <br/>And then started using **BitBucket** to work on the agile environment with the Atlassian ecosystem (Jira, Confluence, and so on).
 
 <!--
 **partharajbd/partharajbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
